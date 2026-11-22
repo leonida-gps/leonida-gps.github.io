@@ -1,6 +1,6 @@
 # Leonida GPS
 
-Escribe una dirección real de Florida y te digo su equivalente aproximado en Leonida, el estado de GTA VI. También funciona al revés: das clic en el mapa de Leonida y te dice qué parte de Florida inspiró esa zona.
+Escribe una dirección real de Florida y te digo su equivalente aproximado en Leonida, el estado de GTA VI. También funciona al revés: escribes un lugar de GTA VI (Little Cuba, Port Gellhorn, Ambrosia…) o das clic en el mapa de Leonida, y te dice qué parte de Florida lo inspiró.
 
 **Abrir:** https://leonida-gps.github.io
 
